@@ -1,0 +1,3 @@
+SHOW_PLOTS = False
+
+BIN_SIZE = 5000
